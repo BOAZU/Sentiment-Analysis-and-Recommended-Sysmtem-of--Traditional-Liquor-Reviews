@@ -19,6 +19,10 @@
   
 <br>
 
+### [프로젝트 발표 영상](https://youtu.be/_yQUWGpCe4Q?si=sFDZGPyH6_trnzb3)
+
+<br>
+
 ## 프로젝트 내용
 <div align="center">
   
